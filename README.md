@@ -2,7 +2,8 @@
 <h1 align="center">hola ¿Buscas algo interesante? YAD here</h1>
 <h3 align="center">Data Enthusiast & Tech Researcher</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
+<img align="right" alt="coding" width="400" src="https://user-
+images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **"Sentiment Analyzer with JavaFX (Gui interface)" project**
 
