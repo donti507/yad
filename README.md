@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yada70002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZfXmngPsGcaevrsTN9iHErnDiGTHKkei/view?usp=drive_link](https://drive.google.com/file/d/1ZfXmngPsGcaevrsTN9iHErnDiGTHKkei/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZfXmngPsGcaevrsTN9iHErnDiGTHKkei/view?usp=drive_link](https://drive.google.com/file/d/1NnZnqIZ_jQ9T5MkcHqfx2NwS3v5_UkuV/view?usp=sharing)
 
 - ⚡ Fun fact **lets take a coffee again and start another round of coding.....**
 
